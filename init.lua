@@ -1,0 +1,3 @@
+--Config Init
+require("glbondiii")
+
