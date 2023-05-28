@@ -1,6 +1,7 @@
 --General Settings(Number, Indent, etc.)
 vim.opt.nu = true
 vim.opt.relativenumber = true;
+vim.opt.scrolloff = 8
 vim.opt.smartindent = true
 vim.opt.colorcolumn = "60"                                  
 vim.opt.wrap = false                                                
