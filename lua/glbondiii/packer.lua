@@ -53,6 +53,9 @@ return require('packer').startup(function(use)
 
     use 'tomasiser/vim-code-dark'
 
+	use 'folke/tokyonight.nvim'
+
+	ff = only
     use 'mbbill/undotree'
 
     use {

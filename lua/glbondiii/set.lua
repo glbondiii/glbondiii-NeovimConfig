@@ -24,6 +24,7 @@ vim.opt.updatetime = 50
 
 --Theme Settings
 --General 
+vim.cmd.colorscheme("tokyonight-night")
 vim.opt.termguicolors = true;
 
 --Code Dark 
@@ -33,4 +34,3 @@ vim.g.codedark_transparent = false
 
 vim.cmd("set t_Co=256")
 vim.cmd("set t_ut= ")
-vim.cmd.colorscheme("codedark")
